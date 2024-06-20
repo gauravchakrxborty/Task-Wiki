@@ -1,4 +1,4 @@
-#Topics cover in this Project:-
+Topics cover in this Project:-
 1. Github Intrigation
 2. Firebase Intregation
 3. Firestore
@@ -16,7 +16,7 @@
 15. Refactor and Redesigned to Project to New
 16. Lambda Functions
 
-#Authentication(Using Realtime Database)
+Authentication(Using Realtime Database)
 1. Authentication using username and password
 2. Forget Fassword
 3. Upload image to firestore
